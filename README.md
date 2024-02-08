@@ -1,8 +1,8 @@
 <a href="https://github.com/rueljessica/github-readme-stats">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=rueljessica&hide=stars&theme=dark" />
+  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=rueljessica&hide=stars&theme=dark" />
 </a>
 <a href="https://github.com/rueljessica/convoychat">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rueljessica&layout=compact&hide_progress=true&card_width=320&theme=dark" />
+  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rueljessica&layout=compact&hide_progress=true&card_width=320&theme=dark" />
 </a>
 
 ##
